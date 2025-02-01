@@ -23,6 +23,6 @@
 ---
 
 ## 📈 **GitHub Stats**  
-![Sajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajansuvarnan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajansuvarnan&layout=compact&theme=radical)  
+![Sajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajansuvarnan&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajansuvarnan&layout=compact&theme=radical&cache_seconds=1800)
 
